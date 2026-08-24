@@ -16,6 +16,8 @@ ________________________________________<br>
 ________________________________________<br>
 # Network Topology Diagram
 (Insert your Packet Tracer screenshot showing R1–R2–R3 in series and PCs connected to edge routers.)<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9550e603-245d-4ad4-a9ca-f3a60cdb30ca" />
+
 ________________________________________<br>
 # Addressing Table
 Device	Interface	IPv4 Address / Subnet Mask	IPv6 Address / Prefix	Default Gateway<br>
@@ -67,8 +69,18 @@ ________________________________________<br>
 ________________________________________
 # Output (Attach Screenshots)
 • ipconfig /all and ipv6config /all output for both PCs.<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6ba7343-5d62-4b31-9d77-6684df3a3f57" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da10098a-724e-4404-9d6d-c99681e7563e" />
+
 • Ping results for IPv4 and IPv6.<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32990870-7125-4172-b761-ced0c6dd7870" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5dedb51-f2ac-4432-8561-8ea78bc1a645" />
+
 • Traceroute results showing intermediate hops.<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/646b4f7a-8683-4156-af04-7135041eefdb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0704a5f-4340-43ec-ad6a-42d763bccf62" />
+
 ________________________________________
 # Result
 The dual-stack IPv4 and IPv6 addressing scheme was successfully verified. Both addressing types achieved full connectivity between PC1 and PC2 through multiple routers, confirming correct configuration and routing.
